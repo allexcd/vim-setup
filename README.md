@@ -79,7 +79,7 @@ FIXME: throws E488 trailing characters error when opening `.ts` files
 ## 5. Install `vim-javascript` plugin to enable javascript syntax highlighting
 
 * Open `~/.vimrc` file
-* Add `Plug https://github.com/pangloss/vim-javascripte`
+* Add `Plug https://github.com/pangloss/vim-javascript`
 * Open vim and type `:PlugInstall`
 
 ## 6. Install TSUQUYOMI to bring IDE like features to VIM
